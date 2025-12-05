@@ -1,4 +1,4 @@
-﻿📘 README.md (Replace your current one with this)
+﻿📘 README.md 
 # Neuro-modulation  
 *A neuro-inspired, emotionally adaptive chatbot using PAD affect modelling, simulated neuromodulators, memory systems and self-reflection.*
 
